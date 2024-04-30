@@ -6,3 +6,4 @@ def increase(text):
 def increase_first_letter(text):
     """Делает заглавной первую букву в каждом слове"""
     return text.title()
+    
